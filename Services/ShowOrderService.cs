@@ -17,10 +17,10 @@ namespace ufoShopBack.Services
             _orderSet = _context.Set<Order>();
 
         }
-        public async Task<List<OrderDTO>> ShowOrderAsync(User user)
+        public async Task<List<OrderDTO>> ShowOrderAsync(int id)
         {
             var userOrders = await _context.Orders
-                .Where(x => x.UserId == user.Id)
+                .Where(x => x.UserId == id)
                 .Select(order => new OrderDTO
                 {
                     OrderId = order.OrderId,

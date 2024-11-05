@@ -45,7 +45,7 @@ namespace ufoShopBack.Services
                 await _context.SaveChangesAsync();
             }
         }
-        public async Task SetNewPriceAsync(int newPrice, int productId)
+        public async Task SetNewPriceAsync(decimal newPrice, int productId)
         {
             var product = await _context.FindAsync<Product>(productId);
             if(product == null)

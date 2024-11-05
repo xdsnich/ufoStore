@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vmhfbrg2kFrgvg3Ba9CmL4fbpftp+s7oJdGwNuRn50U=",
+  "Hash": "FP5nY2G0ZwjYxytHrtIyVIlctdNt1zmNpsNTqIBqC2A=",
   "Source": "ufoShopBack",
   "BasePath": "_content/ufoShopBack",
   "Mode": "Default",
@@ -15,44 +15,5 @@
       "Pattern": "**"
     }
   ],
-  "Assets": [
-    {
-      "Identity": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\wwwroot\\index.html",
-      "SourceId": "ufoShopBack",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\wwwroot\\",
-      "BasePath": "_content/ufoShopBack",
-      "RelativePath": "index.html",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\index.html"
-    },
-    {
-      "Identity": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\wwwroot\\script.js",
-      "SourceId": "ufoShopBack",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\wwwroot\\",
-      "BasePath": "_content/ufoShopBack",
-      "RelativePath": "script.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\script.js"
-    }
-  ]
+  "Assets": []
 }

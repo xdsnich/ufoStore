@@ -4,7 +4,7 @@ using ufoShopBack.CRUDoperations;
 using ufoShopBack.Services;
 using ufoShopBack.Data.Entities;
 
-namespace ufoShopBack.Controllers
+namespace ufoShopBack.Controllers.UserControllers
 {
     [ApiController]
     [Route("api/[controller]")]
@@ -17,7 +17,7 @@ namespace ufoShopBack.Controllers
             _usersCRUD = usersCRUD;
             _usersService = usersService;
         }
-        [HttpGet] 
+        [HttpGet]
         public async Task<IActionResult> GetUsers()
         {
             var users = await _usersCRUD.GetAsync();
@@ -36,7 +36,7 @@ namespace ufoShopBack.Controllers
             {
                 return BadRequest("Email has already been used");
             }
-            if(!await _usersService.IsUserNameUniqueAsync(user.Nickname))
+            if (!await _usersService.IsUserNameUniqueAsync(user.Nickname))
             {
                 return BadRequest("Nickname has already been used");
             }
@@ -58,15 +58,15 @@ namespace ufoShopBack.Controllers
                 await _usersCRUD.UpdateAsync(user, id);
                 return NoContent();
             }
-            catch (Exception ex) 
+            catch (Exception ex)
             {
                 Console.WriteLine($"Error updating user: {ex.Message}");
                 return StatusCode(500, "An error occurred while updating the user.");
             }
-            
+
         }
         [HttpDelete]
-        public async Task<IActionResult> DeletaUser(int id)
+        public async Task<IActionResult> DeleteUser(int id)
         {
             var existingUser = await _usersCRUD.GetAsync(id);
             if (existingUser == null)

@@ -12,8 +12,8 @@
         public int? ViewNumber { get; set; }
         public int CategoryId { get; set; }
         public Category Category { get; set; }
-        public ICollection<Review> Reviews { get; set; }
-        public ICollection<OrderItem> OrderItems { get; set; }
-        public ICollection<LikedItem> LikedItems { get; set; }
+        public ICollection<Review>? Reviews { get; set; }
+        public ICollection<OrderItem>? OrderItems { get; set; }
+        public ICollection<LikedItem>? LikedItems { get; set; }
     }
 }

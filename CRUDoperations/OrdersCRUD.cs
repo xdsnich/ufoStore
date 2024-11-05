@@ -5,11 +5,11 @@ using ufoShopBack.Data;
 using System.Runtime.InteropServices;
 namespace ufoShopBack.CRUDoperations
 {
-    public class Orders : ICRUDoperations<Order>
+    public class OrdersCRUD : ICRUDoperations<Order>
     {
         private readonly Context _context;
         private readonly GenericCRUDoperations<Order> _orderRepository;
-        public Orders(Context context) {
+        public OrdersCRUD(Context context) {
             _context = context;
             _orderRepository = new GenericCRUDoperations<Order>(context);
         }

@@ -129,6 +129,7 @@ C:\Users\xd\source\repos\ufoShopBack\obj\Debug\net8.0\ufoShopBack.AssemblyInfo.c
 C:\Users\xd\source\repos\ufoShopBack\obj\Debug\net8.0\ufoShopBack.csproj.CoreCompileInputs.cache
 C:\Users\xd\source\repos\ufoShopBack\obj\Debug\net8.0\ufoShopBack.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\xd\source\repos\ufoShopBack\obj\Debug\net8.0\ufoShopBack.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\xd\source\repos\ufoShopBack\obj\Debug\net8.0\ufoShopBack.sourcelink.json
 C:\Users\xd\source\repos\ufoShopBack\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\xd\source\repos\ufoShopBack\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\xd\source\repos\ufoShopBack\obj\Debug\net8.0\staticwebassets\msbuild.ufoShopBack.Microsoft.AspNetCore.StaticWebAssets.props

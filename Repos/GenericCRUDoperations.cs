@@ -28,7 +28,7 @@ namespace ufoShopBack.Repos
         }
         
 
-        public async Task CreateAsync(T entity)
+        public  async Task CreateAsync(T entity)
         {
 
             await _dbSet.AddAsync(entity);
