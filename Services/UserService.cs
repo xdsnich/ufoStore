@@ -1,6 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using ufoShopBack.Data;
-using ufoShopBack.Data.Entities;
 using BCrypt.Net;
 using System.Runtime.CompilerServices;
 namespace ufoShopBack.Services

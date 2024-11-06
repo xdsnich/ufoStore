@@ -12,6 +12,7 @@ namespace ufoShopBack.Data.Authentication
         }
         public static string ISSUER => _jwtSettings.Issuer;
         public static string AUDIENCE => _jwtSettings.Audience;
+        public static int Lifetime => _jwtSettings.Lifetime;
         public static SymmetricSecurityKey GetSymmetricSecurityKey() =>
             new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_jwtSettings.Key));
     }

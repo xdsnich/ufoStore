@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using ufoShopBack.CRUDoperations;
 using ufoShopBack.Data.Entities;
 using ufoShopBack.Services;
@@ -26,8 +27,9 @@ namespace ufoShopBack.Controllers.ItemControllers
                 var product = await _productCRUD.GetAsync(id);
                 return product != null ? Ok(product) : NotFound();
             }
+            [Authorize(Roles = "Moderator,Admin")]
             [HttpPost]
-            public async Task<IActionResult> CreateUser([FromBody] Product product)
+            public async Task<IActionResult> CreatePorduct([FromBody] Product product)
             {
                 if (product == null) {
                     return BadRequest("all data should be entered");
@@ -35,8 +37,9 @@ namespace ufoShopBack.Controllers.ItemControllers
                 await _productCRUD.CreateAsync(product);
                 return CreatedAtAction(nameof(GetProductById), new { id = product.Id }, product);
             }
+            [Authorize(Roles = "Moderator,Admin")]
             [HttpPut("{id}")]
-            public async Task<IActionResult> UpdateUser(int id, [FromBody] Product product)
+            public async Task<IActionResult> UpdateProduct(int id, [FromBody] Product product)
             {
                 try
                 {
@@ -56,7 +59,8 @@ namespace ufoShopBack.Controllers.ItemControllers
                 }
 
             }
-            [HttpDelete]
+            [Authorize(Roles = "Admin")]
+            [HttpDelete("{id}")]
             public async Task<IActionResult> DeleteProduct(int id)
             {
                 var productFromDb = await _productCRUD.GetAsync(id);

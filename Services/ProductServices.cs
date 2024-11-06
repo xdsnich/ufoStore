@@ -1,8 +1,6 @@
 ﻿using ufoShopBack.Data.Entities;
 using ufoShopBack.Data;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Identity.Client;
-using Microsoft.EntityFrameworkCore.Metadata.Conventions;
 namespace ufoShopBack.Services
 {
     public class ProductServices

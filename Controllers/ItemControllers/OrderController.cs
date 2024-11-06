@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http.HttpResults;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
 using ufoShopBack.CRUDoperations;
 using ufoShopBack.Data;
@@ -23,18 +24,21 @@ namespace ufoShopBack.Controllers.ItemControllers
             _showOrderService = showOrderService;
             _createOrderService = createOrderService;
         }
+        [Authorize(Roles = "Moderator,Admin")]
         [HttpGet("getorder")]
         public async Task<IActionResult> GetOrder()
         {
             var orders = await _orderCRUD.GetAsync();
             return Ok(orders);
         }
+        [Authorize]
         [HttpGet("show/{id}")]
         public async Task<IActionResult> ShowOrderWithItems(int id)
         {
             var orders = await _showOrderService.ShowOrderAsync(id);
             return Ok(orders);
         }
+        [Authorize]
         [HttpPost("create/{userId}")]
         public async Task<IActionResult> CreateOrderWithItems(int userId, List<OrderItemDTO> orderItems) 
         {

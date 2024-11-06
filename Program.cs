@@ -4,7 +4,6 @@ using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens;
-using System.Security.Claims;
 using Microsoft.AspNetCore.Authentication.OAuth;
 using System.IdentityModel.Tokens.Jwt;
 using ufoShopBack.Data.Authentication;
@@ -34,17 +33,6 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
             ValidateIssuerSigningKey = true,
         };
     });
-builder.Services.AddAuthorization(options =>
-{
-    options.AddPolicy("AdminPolicy", policy =>
-    {
-        policy.RequireClaim("Admin", "true");
-    });
-    options.AddPolicy("UserPolicy", policy =>
-    {
-        policy.RequireClaim("Admin", "true");
-    });
-});
 
 builder.Services.AddDbContext<Context>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("SqlServer")));

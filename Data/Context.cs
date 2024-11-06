@@ -1,6 +1,8 @@
 ﻿using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.IdentityModel.Tokens;
 using ufoShopBack.Data.Entities;
+using ufoShopBack.Data.Enums;
 namespace ufoShopBack.Data
 {
     public class Context : DbContext
@@ -23,9 +25,12 @@ namespace ufoShopBack.Data
         public DbSet<Category> Categories { get; set; }
         public DbSet<RatingList> Rating { get; set; }
         public DbSet<Review> Reviews { get; set; }
-
+        public DbSet<Role> Roles { get; set; }
+        public DbSet<UserRole> UserRoles { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            base.OnModelCreating(modelBuilder);
+            
             modelBuilder.Entity<Order>()
                 .HasOne(p => p.User)
                 .WithMany(pi => pi.Orders)
@@ -65,6 +70,29 @@ namespace ufoShopBack.Data
             modelBuilder.Entity<Product>()
                 .Property(p => p.Price)
                 .HasPrecision(10, 2);
+
+            modelBuilder.Entity<UserRole>()
+                .HasKey(ur => new {ur.UserId, ur.RoleId});
+            modelBuilder.Entity<UserRole>()
+                .HasOne(ur => ur.User)
+                .WithMany(ur => ur.UserRoles)
+                .HasForeignKey(ur => ur.UserId);
+            modelBuilder.Entity<UserRole>()
+                .HasOne(ur => ur.Role)
+                .WithMany(ur => ur.UserRoles)
+                .HasForeignKey(ur => ur.RoleId);
+
+            //ENTERING DATA TO A ROLE TABLE
+            var roles = Enum
+                .GetValues<RoleEnum>()
+                .Select(r => new Role
+                {
+                    Id = (int)r,
+                    RoleName = r.ToString()
+                })
+                .ToArray();
+
+            modelBuilder.Entity<Role>().HasData(roles);
         }
 
       

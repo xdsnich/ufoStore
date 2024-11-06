@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using ufoShopBack.CRUDoperations;
 using ufoShopBack.Services;
 using ufoShopBack.Data.Entities;
+using Microsoft.AspNetCore.Authorization;
 
 namespace ufoShopBack.Controllers.UserControllers
 {
@@ -17,19 +18,22 @@ namespace ufoShopBack.Controllers.UserControllers
             _usersCRUD = usersCRUD;
             _usersService = usersService;
         }
-        [HttpGet]
+        [Authorize(Roles = "Moderator,Admin")]
+        [HttpGet] 
         public async Task<IActionResult> GetUsers()
         {
             var users = await _usersCRUD.GetAsync();
             return Ok(users);
         }
+        [Authorize(Roles = "Moderator,Admin")]
         [HttpGet("{id}")]
         public async Task<IActionResult> GetUserById(int id)
         {
             var user = await _usersCRUD.GetAsync(id);
             return user != null ? Ok(user) : NotFound();
         }
-        [HttpPost]
+        [Authorize(Roles = "Admin")]
+        [HttpPost]  
         public async Task<IActionResult> CreateUser([FromBody] User user)
         {
             if (!await _usersService.IsEmailUniqueAsync(user.Email))
@@ -44,6 +48,7 @@ namespace ufoShopBack.Controllers.UserControllers
             await _usersCRUD.CreateAsync(user);
             return CreatedAtAction(nameof(GetUserById), new { id = user.Id }, user);
         }
+        [Authorize]
         [HttpPut("{id}")]
         public async Task<IActionResult> UpdateUser(int id, [FromBody] User user)
         {
@@ -65,6 +70,7 @@ namespace ufoShopBack.Controllers.UserControllers
             }
 
         }
+        [Authorize(Roles = "Admin")]
         [HttpDelete]
         public async Task<IActionResult> DeleteUser(int id)
         {

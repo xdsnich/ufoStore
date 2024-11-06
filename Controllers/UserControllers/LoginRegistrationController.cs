@@ -1,14 +1,12 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using ufoShopBack.Services;
 using ufoShopBack.Data;
-using ufoShopBack.Data.Authentication;
 using ufoShopBack.Data.Entities;
 using ufoShopBack.CRUDoperations;
-using Microsoft.IdentityModel.Tokens;
 using System.Text;
 using ufoShopBack.Models.UsersValidation;
 using System.IdentityModel.Tokens.Jwt;
-using System.Security.Claims;
+using System.Data;
 
 namespace ufoShopBack.Controllers.UserControllers
 {
@@ -19,11 +17,13 @@ namespace ufoShopBack.Controllers.UserControllers
         private readonly UserService _userService;
         private readonly Context _context;
         private readonly UsersCRUD usersCRUD;
+        private readonly GenerateTokenService _tokenService;
 
-        public LoginRegistrationController(UserService userService, Context context)
+        public LoginRegistrationController(UserService userService, Context context, GenerateTokenService tokenService)
         {
             _context = context;
             _userService = userService;
+            _tokenService = tokenService;
         }
         [HttpPost("login")]
         public async Task<IActionResult> LoginAsync([FromBody] LoginRequest user, UsersCRUD usersCRUD)
@@ -37,25 +37,17 @@ namespace ufoShopBack.Controllers.UserControllers
             {
                 return Unauthorized(new { message = "invalid email or password" });
             }
-            var claims = new List<Claim> { new Claim(ClaimTypes.Name, userFromDb.Email) };
-            var jwt = new JwtSecurityToken(
-                issuer: AuthOptions.ISSUER,
-                audience: AuthOptions.ISSUER,
-                claims: claims,
-                expires: DateTime.UtcNow.Add(TimeSpan.FromDays(2)),
-                signingCredentials: new SigningCredentials(AuthOptions.GetSymmetricSecurityKey(), SecurityAlgorithms.HmacSha256)
-                );
-            var encodedJwt = new JwtSecurityTokenHandler().WriteToken(jwt);
-            Console.WriteLine($"Generated JWT: {encodedJwt}");
 
+            var roles = userFromDb.UserRoles.Select(userRole => userRole.Role.RoleName).ToList();
+
+            var token = _tokenService.GenerateToken(userFromDb, roles);
             var response = new
             {
-                access_token = encodedJwt,
+                access_token = token,
                 username = userFromDb.Email
             };
             return Json(response);
         }
-
         [HttpPost("signup")]
         public async Task<IActionResult> SignUpAsync([FromBody] User user, UsersCRUD usersCRUD)
         {
@@ -68,6 +60,8 @@ namespace ufoShopBack.Controllers.UserControllers
 
             result = await _userService.IsEmailUniqueAsync(user.Email);
             if (!result) return BadRequest(new { message = "email has already been taken" });
+            
+            
             await usersCRUD.CreateAsync(user);
             return Created(string.Empty, user);
         }

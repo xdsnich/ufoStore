@@ -9,9 +9,8 @@ namespace ufoShopBack.Data.Entities
 
         [Column("PasswordHash")]
         public string Password { get; set; }
-
+        public string Nickname { get; set; }
         public string? Name { get; set; }
-
         public string? Surname { get; set; }
 
         [Column("PhoneNumber")]
@@ -19,10 +18,9 @@ namespace ufoShopBack.Data.Entities
 
         [Column("Address")]
         public string? DeliveryAddress { get; set; }
-
-        public string Nickname { get; set; }
         public string? Lastname { get; set; }
         public ICollection<LikedItem>? LikedItems { get; set; }
         public ICollection<Order>? Orders { get; set; }
+        public ICollection<UserRole> UserRoles { get; set; } = new List<UserRole>();
     }
 }

@@ -3,52 +3,124 @@
   "WorkspaceRootPath": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|c:\\users\\xd\\source\\repos\\ufoshopback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|c:\\users\\xd\\source\\repos\\ufoshopback\\dtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|solutionrelative:dtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|c:\\users\\xd\\source\\repos\\ufoshopback\\controllers\\itemcontrollers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|solutionrelative:controllers\\itemcontrollers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|c:\\users\\xd\\source\\repos\\ufoshopback\\services\\createorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|solutionrelative:services\\createorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|c:\\users\\xd\\source\\repos\\ufoshopback\\services\\showorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|solutionrelative:services\\showorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|c:\\users\\xd\\source\\repos\\ufoshopback\\controllers\\usercontrollers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|solutionrelative:controllers\\usercontrollers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|c:\\users\\xd\\source\\repos\\ufoshopback\\controllers\\itemcontrollers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|solutionrelative:controllers\\itemcontrollers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|c:\\users\\xd\\source\\repos\\ufoshopback\\crudoperations\\orderscrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|solutionrelative:crudoperations\\orderscrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|c:\\users\\xd\\source\\repos\\ufoshopback\\controllers\\usercontrollers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|solutionrelative:controllers\\usercontrollers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|c:\\users\\xd\\source\\repos\\ufoshopback\\controllers\\usercontrollers\\loginregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|solutionrelative:controllers\\usercontrollers\\loginregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|c:\\users\\xd\\source\\repos\\ufoshopback\\crudoperations\\orderitemcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|solutionrelative:crudoperations\\orderitemcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|c:\\users\\xd\\source\\repos\\ufoshopback\\crudoperations\\userscrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|solutionrelative:crudoperations\\userscrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|c:\\users\\xd\\source\\repos\\ufoshopback\\data\\authentication\\authoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|solutionrelative:data\\authentication\\authoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|c:\\users\\xd\\source\\repos\\ufoshopback\\data\\authentication\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|solutionrelative:data\\authentication\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|c:\\users\\xd\\source\\repos\\ufoshopback\\data\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|solutionrelative:data\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|c:\\users\\xd\\source\\repos\\ufoshopback\\data\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|solutionrelative:data\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|c:\\users\\xd\\source\\repos\\ufoshopback\\data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|solutionrelative:data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|c:\\users\\xd\\source\\repos\\ufoshopback\\data\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|solutionrelative:data\\entities\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|c:\\users\\xd\\source\\repos\\ufoshopback\\data\\enums\\roleenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|solutionrelative:data\\enums\\roleenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|c:\\users\\xd\\source\\repos\\ufoshopback\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|solutionrelative:data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|c:\\users\\xd\\source\\repos\\ufoshopback\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|solutionrelative:dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|c:\\users\\xd\\source\\repos\\ufoshopback\\dtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|solutionrelative:dtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|c:\\users\\xd\\source\\repos\\ufoshopback\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|solutionrelative:dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|c:\\users\\xd\\source\\repos\\ufoshopback\\services\\basketformationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|solutionrelative:services\\basketformationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|c:\\users\\xd\\source\\repos\\ufoshopback\\services\\createorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|solutionrelative:services\\createorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|c:\\users\\xd\\source\\repos\\ufoshopback\\services\\generatetokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|solutionrelative:services\\generatetokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|c:\\users\\xd\\source\\repos\\ufoshopback\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|solutionrelative:services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|c:\\users\\xd\\source\\repos\\ufoshopback\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|solutionrelative:services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|c:\\users\\xd\\source\\repos\\ufoshopback\\services\\showorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|solutionrelative:services\\showorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|c:\\users\\xd\\source\\repos\\ufoshopback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|c:\\users\\xd\\source\\repos\\ufoshopback\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|c:\\users\\xd\\source\\repos\\ufoshopback\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|c:\\users\\xd\\source\\repos\\ufoshopback\\data\\entities\\likeditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|solutionrelative:data\\entities\\likeditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|c:\\users\\xd\\source\\repos\\ufoshopback\\data\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|solutionrelative:data\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|c:\\users\\xd\\source\\repos\\ufoshopback\\data\\entities\\ratinglist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|solutionrelative:data\\entities\\ratinglist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|c:\\users\\xd\\source\\repos\\ufoshopback\\crudoperations\\orderscrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|solutionrelative:crudoperations\\orderscrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|c:\\users\\xd\\source\\repos\\ufoshopback\\crudoperations\\orderitemcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|solutionrelative:crudoperations\\orderitemcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|c:\\users\\xd\\source\\repos\\ufoshopback\\crudoperations\\productcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,28 +131,8 @@
       "RelativeMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|solutionrelative:repos\\genericcrudoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|c:\\users\\xd\\source\\repos\\ufoshopback\\data\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|solutionrelative:data\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|c:\\users\\xd\\source\\repos\\ufoshopback\\models\\usersvalidation\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|solutionrelative:models\\usersvalidation\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|c:\\users\\xd\\source\\repos\\ufoshopback\\data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|solutionrelative:data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|c:\\users\\xd\\source\\repos\\ufoshopback\\crudoperations\\userscrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|solutionrelative:crudoperations\\userscrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|c:\\users\\xd\\source\\repos\\ufoshopback\\data\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|solutionrelative:data\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|c:\\users\\xd\\source\\repos\\ufoshopback\\data\\entities\\ratinglist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|solutionrelative:data\\entities\\ratinglist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|c:\\users\\xd\\source\\repos\\ufoshopback\\data\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -95,40 +147,8 @@
       "RelativeMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|solutionrelative:models\\usersvalidation\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|c:\\users\\xd\\source\\repos\\ufoshopback\\data\\authentication\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|solutionrelative:data\\authentication\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|c:\\users\\xd\\source\\repos\\ufoshopback\\data\\authentication\\authoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|solutionrelative:data\\authentication\\authoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|c:\\users\\xd\\source\\repos\\ufoshopback\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|c:\\users\\xd\\source\\repos\\ufoshopback\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|c:\\users\\xd\\source\\repos\\ufoshopback\\data\\entities\\likeditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|solutionrelative:data\\entities\\likeditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|c:\\users\\xd\\source\\repos\\ufoshopback\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|solutionrelative:data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|c:\\users\\xd\\source\\repos\\ufoshopback\\data\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|solutionrelative:data\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|c:\\users\\xd\\source\\repos\\ufoshopback\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|solutionrelative:dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|c:\\users\\xd\\source\\repos\\ufoshopback\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|solutionrelative:dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D6279A1D-E955-4DDF-9BCC-4EA0C2CCE8E5}|ufoShopBack.csproj|c:\\users\\xd\\source\\repos\\ufoshopback\\abstract\\icrudoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -166,17 +186,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 364,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "OrderController.cs",
               "DocumentMoniker": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Controllers\\ItemControllers\\OrderController.cs",
               "RelativeDocumentMoniker": "Controllers\\ItemControllers\\OrderController.cs",
               "ToolTip": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Controllers\\ItemControllers\\OrderController.cs",
               "RelativeToolTip": "Controllers\\ItemControllers\\OrderController.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAgwC8AAAABAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCgAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-05T13:06:39.83Z",
               "IsPinned": true,
@@ -184,13 +204,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Controllers\\UserControllers\\UserController.cs",
               "RelativeDocumentMoniker": "Controllers\\UserControllers\\UserController.cs",
               "ToolTip": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Controllers\\UserControllers\\UserController.cs",
               "RelativeToolTip": "Controllers\\UserControllers\\UserController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "ViewState": "AQIAADQAAAAAAAAAAAA0wBQAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-04T15:27:54.851Z",
               "IsPinned": true,
@@ -206,33 +226,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "OrdersCRUD.cs",
-              "DocumentMoniker": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\CRUDoperations\\OrdersCRUD.cs",
-              "RelativeDocumentMoniker": "CRUDoperations\\OrdersCRUD.cs",
-              "ToolTip": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\CRUDoperations\\OrdersCRUD.cs",
-              "RelativeToolTip": "CRUDoperations\\OrdersCRUD.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABYAAAA",
+              "DocumentIndex": 15,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\DTOs\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\DTOs\\ProductDTO.cs",
+              "RelativeToolTip": "DTOs\\ProductDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T06:36:21.415Z",
+              "WhenOpened": "2024-10-30T17:39:35.189Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABJAAAA",
+              "DocumentIndex": 11,
+              "Title": "RoleEnum.cs",
+              "DocumentMoniker": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Data\\Enums\\RoleEnum.cs",
+              "RelativeDocumentMoniker": "Data\\Enums\\RoleEnum.cs",
+              "ToolTip": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Data\\Enums\\RoleEnum.cs",
+              "RelativeToolTip": "Data\\Enums\\RoleEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T06:31:38.419Z",
+              "WhenOpened": "2024-11-06T06:51:52.143Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Data\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Data\\Entities\\User.cs",
+              "RelativeToolTip": "Data\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T07:56:46.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsersCRUD.cs",
+              "DocumentMoniker": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\CRUDoperations\\UsersCRUD.cs",
+              "RelativeDocumentMoniker": "CRUDoperations\\UsersCRUD.cs",
+              "ToolTip": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\CRUDoperations\\UsersCRUD.cs",
+              "RelativeToolTip": "CRUDoperations\\UsersCRUD.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwAEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:33:45.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "BasketFormationService.cs",
               "DocumentMoniker": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Services\\BasketFormationService.cs",
               "RelativeDocumentMoniker": "Services\\BasketFormationService.cs",
@@ -245,32 +291,83 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 18,
+              "Title": "GenerateTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Services\\GenerateTokenService.cs",
+              "RelativeDocumentMoniker": "Services\\GenerateTokenService.cs",
+              "ToolTip": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Services\\GenerateTokenService.cs",
+              "RelativeToolTip": "Services\\GenerateTokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:44:37.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "ProductServices.cs",
               "DocumentMoniker": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Services\\ProductServices.cs",
               "RelativeDocumentMoniker": "Services\\ProductServices.cs",
               "ToolTip": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Services\\ProductServices.cs",
               "RelativeToolTip": "Services\\ProductServices.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAwwC8AAABLAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-04T13:23:08.379Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Data\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "Data\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Data\\Entities\\User.cs",
-              "RelativeToolTip": "Data\\Entities\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAVAAAA",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T07:56:46.483Z"
+              "WhenOpened": "2024-10-19T06:31:38.419Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T13:22:46.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LikedItem.cs",
+              "DocumentMoniker": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Data\\Entities\\LikedItem.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\LikedItem.cs",
+              "ToolTip": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Data\\Entities\\LikedItem.cs",
+              "RelativeToolTip": "Data\\Entities\\LikedItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T14:55:12.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "OrdersCRUD.cs",
+              "DocumentMoniker": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\CRUDoperations\\OrdersCRUD.cs",
+              "RelativeDocumentMoniker": "CRUDoperations\\OrdersCRUD.cs",
+              "ToolTip": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\CRUDoperations\\OrdersCRUD.cs",
+              "RelativeToolTip": "CRUDoperations\\OrdersCRUD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T06:36:21.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
               "Title": "RegisterRequest.cs",
               "DocumentMoniker": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Models\\UsersValidation\\RegisterRequest.cs",
               "RelativeDocumentMoniker": "Models\\UsersValidation\\RegisterRequest.cs",
@@ -279,72 +376,22 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T15:27:46.504Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "LikedItem.cs",
-              "DocumentMoniker": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Data\\Entities\\LikedItem.cs",
-              "RelativeDocumentMoniker": "Data\\Entities\\LikedItem.cs",
-              "ToolTip": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Data\\Entities\\LikedItem.cs",
-              "RelativeToolTip": "Data\\Entities\\LikedItem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T14:55:12.044Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "Services\\UserService.cs",
-              "ToolTip": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Services\\UserService.cs",
-              "RelativeToolTip": "Services\\UserService.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAxwBUAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T13:22:46.626Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "ProductDTO.cs",
-              "DocumentMoniker": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\DTOs\\ProductDTO.cs",
-              "RelativeDocumentMoniker": "DTOs\\ProductDTO.cs",
-              "ToolTip": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\DTOs\\ProductDTO.cs",
-              "RelativeToolTip": "DTOs\\ProductDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T17:39:35.189Z"
             }
           ]
         },
         {
           "DockedWidth": 325,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ShowOrderService.cs",
-              "DocumentMoniker": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Services\\ShowOrderService.cs",
-              "RelativeDocumentMoniker": "Services\\ShowOrderService.cs",
-              "ToolTip": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Services\\ShowOrderService.cs",
-              "RelativeToolTip": "Services\\ShowOrderService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T06:51:39.763Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Controllers\\ItemControllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Controllers\\ItemControllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Controllers\\ItemControllers\\ProductController.cs",
               "RelativeToolTip": "Controllers\\ItemControllers\\ProductController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAAAAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowD4AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-05T11:25:47.085Z",
               "IsPinned": true,
@@ -352,20 +399,113 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CreateOrderService.cs",
-              "DocumentMoniker": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Services\\CreateOrderService.cs",
-              "RelativeDocumentMoniker": "Services\\CreateOrderService.cs",
-              "ToolTip": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Services\\CreateOrderService.cs",
-              "RelativeToolTip": "Services\\CreateOrderService.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAnAAAA",
+              "DocumentIndex": 12,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Data\\Context.cs",
+              "RelativeDocumentMoniker": "Data\\Context.cs",
+              "ToolTip": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Data\\Context.cs",
+              "RelativeToolTip": "Data\\Context.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAowFQAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T09:42:43.995Z",
+              "WhenOpened": "2024-10-22T09:59:27.308Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Data\\Entities\\UserRole.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\UserRole.cs",
+              "ToolTip": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Data\\Entities\\UserRole.cs",
+              "RelativeToolTip": "Data\\Entities\\UserRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T16:26:53.98Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthOptions.cs",
+              "DocumentMoniker": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Data\\Authentication\\AuthOptions.cs",
+              "RelativeDocumentMoniker": "Data\\Authentication\\AuthOptions.cs",
+              "ToolTip": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Data\\Authentication\\AuthOptions.cs",
+              "RelativeToolTip": "Data\\Authentication\\AuthOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T07:10:37.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginRegistrationController.cs",
+              "DocumentMoniker": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Controllers\\UserControllers\\LoginRegistrationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserControllers\\LoginRegistrationController.cs",
+              "ToolTip": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Controllers\\UserControllers\\LoginRegistrationController.cs",
+              "RelativeToolTip": "Controllers\\UserControllers\\LoginRegistrationController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAkwDIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T06:33:28.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Data\\Authentication\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "Data\\Authentication\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Data\\Authentication\\JwtSettings.cs",
+              "RelativeToolTip": "Data\\Authentication\\JwtSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T07:07:05.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Data\\Entities\\Review.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\Review.cs",
+              "ToolTip": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Data\\Entities\\Review.cs",
+              "RelativeToolTip": "Data\\Entities\\Review.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T13:36:30.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Data\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "Data\\Entities\\Role.cs",
+              "ToolTip": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Data\\Entities\\Role.cs",
+              "RelativeToolTip": "Data\\Entities\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T16:07:18.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\DTOs\\OrderDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\OrderDTO.cs",
+              "ToolTip": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\DTOs\\OrderDTO.cs",
+              "RelativeToolTip": "DTOs\\OrderDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T06:19:44.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "OrderItemDTO.cs",
               "DocumentMoniker": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\DTOs\\OrderItemDTO.cs",
               "RelativeDocumentMoniker": "DTOs\\OrderItemDTO.cs",
@@ -378,59 +518,71 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "GenericCRUDoperations.cs",
-              "DocumentMoniker": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Repos\\GenericCRUDoperations.cs",
-              "RelativeDocumentMoniker": "Repos\\GenericCRUDoperations.cs",
-              "ToolTip": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Repos\\GenericCRUDoperations.cs",
-              "RelativeToolTip": "Repos\\GenericCRUDoperations.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAwwB4AAAAPAAAA",
+              "DocumentIndex": 17,
+              "Title": "CreateOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Services\\CreateOrderService.cs",
+              "RelativeDocumentMoniker": "Services\\CreateOrderService.cs",
+              "ToolTip": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Services\\CreateOrderService.cs",
+              "RelativeToolTip": "Services\\CreateOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T06:58:26.766Z",
+              "WhenOpened": "2024-10-28T09:42:43.995Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ProductCRUD.cs",
-              "DocumentMoniker": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\CRUDoperations\\ProductCRUD.cs",
-              "RelativeDocumentMoniker": "CRUDoperations\\ProductCRUD.cs",
-              "ToolTip": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\CRUDoperations\\ProductCRUD.cs",
-              "RelativeToolTip": "CRUDoperations\\ProductCRUD.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCQAAAAJAAAA",
+              "DocumentIndex": 20,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Services\\RoleService.cs",
+              "RelativeDocumentMoniker": "Services\\RoleService.cs",
+              "ToolTip": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Services\\RoleService.cs",
+              "RelativeToolTip": "Services\\RoleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T07:33:01.638Z",
+              "WhenOpened": "2024-11-06T11:17:15.436Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "LoginRegistrationController.cs",
-              "DocumentMoniker": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Controllers\\UserControllers\\LoginRegistrationController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UserControllers\\LoginRegistrationController.cs",
-              "ToolTip": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Controllers\\UserControllers\\LoginRegistrationController.cs",
-              "RelativeToolTip": "Controllers\\UserControllers\\LoginRegistrationController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAEgAAAAJAAAA",
+              "DocumentIndex": 21,
+              "Title": "ShowOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Services\\ShowOrderService.cs",
+              "RelativeDocumentMoniker": "Services\\ShowOrderService.cs",
+              "ToolTip": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Services\\ShowOrderService.cs",
+              "RelativeToolTip": "Services\\ShowOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T06:33:28.384Z",
+              "WhenOpened": "2024-10-28T06:51:39.763Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "OrderItemCRUD.cs",
-              "DocumentMoniker": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\CRUDoperations\\OrderItemCRUD.cs",
-              "RelativeDocumentMoniker": "CRUDoperations\\OrderItemCRUD.cs",
-              "ToolTip": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\CRUDoperations\\OrderItemCRUD.cs",
-              "RelativeToolTip": "CRUDoperations\\OrderItemCRUD.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABpAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T06:35:13.443Z",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-19T07:30:51.466Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 43,
+              "Title": "ContextProductsModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Migrations\\ContextProductsMigrations\\ContextProductsModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ContextProductsMigrations\\ContextProductsModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Migrations\\ContextProductsMigrations\\ContextProductsModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ContextProductsMigrations\\ContextProductsModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T12:15:42.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Data\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "Data\\Entities\\Product.cs",
@@ -438,48 +590,11 @@
               "RelativeToolTip": "Data\\Entities\\Product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T07:31:34.196Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T07:31:34.196Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "LoginRequest.cs",
-              "DocumentMoniker": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Models\\UsersValidation\\LoginRequest.cs",
-              "RelativeDocumentMoniker": "Models\\UsersValidation\\LoginRequest.cs",
-              "ToolTip": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Models\\UsersValidation\\LoginRequest.cs",
-              "RelativeToolTip": "Models\\UsersValidation\\LoginRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T15:27:26.623Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "UsersCRUD.cs",
-              "DocumentMoniker": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\CRUDoperations\\UsersCRUD.cs",
-              "RelativeDocumentMoniker": "CRUDoperations\\UsersCRUD.cs",
-              "ToolTip": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\CRUDoperations\\UsersCRUD.cs",
-              "RelativeToolTip": "CRUDoperations\\UsersCRUD.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAC4AAABGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T06:39:15.492Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Review.cs",
-              "DocumentMoniker": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Data\\Entities\\Review.cs",
-              "RelativeDocumentMoniker": "Data\\Entities\\Review.cs",
-              "ToolTip": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Data\\Entities\\Review.cs",
-              "RelativeToolTip": "Data\\Entities\\Review.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T13:36:30.828Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 27,
               "Title": "RatingList.cs",
               "DocumentMoniker": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Data\\Entities\\RatingList.cs",
               "RelativeDocumentMoniker": "Data\\Entities\\RatingList.cs",
@@ -491,7 +606,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 31,
+              "Title": "GenericCRUDoperations.cs",
+              "DocumentMoniker": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Repos\\GenericCRUDoperations.cs",
+              "RelativeDocumentMoniker": "Repos\\GenericCRUDoperations.cs",
+              "ToolTip": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Repos\\GenericCRUDoperations.cs",
+              "RelativeToolTip": "Repos\\GenericCRUDoperations.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAwwB4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T06:58:26.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ProductCRUD.cs",
+              "DocumentMoniker": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\CRUDoperations\\ProductCRUD.cs",
+              "RelativeDocumentMoniker": "CRUDoperations\\ProductCRUD.cs",
+              "ToolTip": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\CRUDoperations\\ProductCRUD.cs",
+              "RelativeToolTip": "CRUDoperations\\ProductCRUD.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T07:33:01.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "OrderItemCRUD.cs",
+              "DocumentMoniker": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\CRUDoperations\\OrderItemCRUD.cs",
+              "RelativeDocumentMoniker": "CRUDoperations\\OrderItemCRUD.cs",
+              "ToolTip": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\CRUDoperations\\OrderItemCRUD.cs",
+              "RelativeToolTip": "CRUDoperations\\OrderItemCRUD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T06:35:13.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Models\\UsersValidation\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Models\\UsersValidation\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Models\\UsersValidation\\LoginRequest.cs",
+              "RelativeToolTip": "Models\\UsersValidation\\LoginRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T15:27:26.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
               "Title": "OrderItem.cs",
               "DocumentMoniker": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Data\\Entities\\OrderItem.cs",
               "RelativeDocumentMoniker": "Data\\Entities\\OrderItem.cs",
@@ -503,7 +666,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 34,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Data\\Entities\\Order.cs",
               "RelativeDocumentMoniker": "Data\\Entities\\Order.cs",
@@ -515,55 +678,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "JwtSettings.cs",
-              "DocumentMoniker": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Data\\Authentication\\JwtSettings.cs",
-              "RelativeDocumentMoniker": "Data\\Authentication\\JwtSettings.cs",
-              "ToolTip": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Data\\Authentication\\JwtSettings.cs",
-              "RelativeToolTip": "Data\\Authentication\\JwtSettings.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T07:07:05.233Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "AuthOptions.cs",
-              "DocumentMoniker": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Data\\Authentication\\AuthOptions.cs",
-              "RelativeDocumentMoniker": "Data\\Authentication\\AuthOptions.cs",
-              "ToolTip": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Data\\Authentication\\AuthOptions.cs",
-              "RelativeToolTip": "Data\\Authentication\\AuthOptions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T07:10:37.824Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-19T07:30:51.466Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Context.cs",
-              "DocumentMoniker": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Data\\Context.cs",
-              "RelativeDocumentMoniker": "Data\\Context.cs",
-              "ToolTip": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Data\\Context.cs",
-              "RelativeToolTip": "Data\\Context.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAAwCYAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T09:59:27.308Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 36,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Data\\Entities\\Category.cs",
               "RelativeDocumentMoniker": "Data\\Entities\\Category.cs",
@@ -575,19 +690,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "OrderDTO.cs",
-              "DocumentMoniker": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\DTOs\\OrderDTO.cs",
-              "RelativeDocumentMoniker": "DTOs\\OrderDTO.cs",
-              "ToolTip": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\DTOs\\OrderDTO.cs",
-              "RelativeToolTip": "DTOs\\OrderDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T06:19:44.264Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 37,
               "Title": "ICRUDoperations.cs",
               "DocumentMoniker": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Abstract\\ICRUDoperations.cs",
               "RelativeDocumentMoniker": "Abstract\\ICRUDoperations.cs",
@@ -599,7 +702,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 41,
               "Title": "20241020105407_RecreateTables.Designer.cs",
               "DocumentMoniker": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Migrations\\20241020105407_RecreateTables.Designer.cs",
               "RelativeDocumentMoniker": "Migrations\\20241020105407_RecreateTables.Designer.cs",
@@ -611,7 +714,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 39,
               "Title": "20241020103357_InitialCreate.Designer.cs",
               "DocumentMoniker": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Migrations\\20241020103357_InitialCreate.Designer.cs",
               "RelativeDocumentMoniker": "Migrations\\20241020103357_InitialCreate.Designer.cs",
@@ -623,7 +726,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 38,
               "Title": "20241020110321_newinitmigration.Designer.cs",
               "DocumentMoniker": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Migrations\\20241020110321_newinitmigration.Designer.cs",
               "RelativeDocumentMoniker": "Migrations\\20241020110321_newinitmigration.Designer.cs",
@@ -635,7 +738,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 42,
               "Title": "20241021130737_AddingProductTable.Designer.cs",
               "DocumentMoniker": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Migrations\\ContextProductsMigrations\\20241021130737_AddingProductTable.Designer.cs",
               "RelativeDocumentMoniker": "Migrations\\ContextProductsMigrations\\20241021130737_AddingProductTable.Designer.cs",
@@ -647,7 +750,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 40,
               "Title": "20241021051903_AddNicknameAndLastnameToUser.Designer.cs",
               "DocumentMoniker": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Migrations\\20241021051903_AddNicknameAndLastnameToUser.Designer.cs",
               "RelativeDocumentMoniker": "Migrations\\20241021051903_AddNicknameAndLastnameToUser.Designer.cs",
@@ -656,18 +759,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T12:37:08.75Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "ContextProductsModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Migrations\\ContextProductsMigrations\\ContextProductsModelSnapshot.cs",
-              "RelativeDocumentMoniker": "Migrations\\ContextProductsMigrations\\ContextProductsModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\xd\\source\\repos\\ufoShopBack\\Migrations\\ContextProductsMigrations\\ContextProductsModelSnapshot.cs",
-              "RelativeToolTip": "Migrations\\ContextProductsMigrations\\ContextProductsModelSnapshot.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T12:15:42.266Z"
             }
           ]
         }

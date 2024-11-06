@@ -1,11 +1,10 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Metadata.Internal;
-using System.Runtime;
 using ufoShopBack.Data;
 using ufoShopBack.Services;
 using ufoShopBack.Repos;
 using ufoShopBack.Abstract;
 using ufoShopBack.Data.Entities;
+using ufoShopBack.Data.Enums;
 
 namespace ufoShopBack.CRUDoperations
 {
@@ -15,6 +14,7 @@ namespace ufoShopBack.CRUDoperations
         private readonly UserService _userServices;
         private readonly GenericCRUDoperations<User> _userRepository;
         private readonly DbSet<User> _users;
+        private readonly RoleService _roleService;
 
         public UsersCRUD(Context context, UserService userServices)
         {
@@ -38,7 +38,7 @@ namespace ufoShopBack.CRUDoperations
         }
         public async Task CreateAsync(User user)
         {
-
+            await _roleService.GiveRole(user, (int)RoleEnum.User);
             user.Password = _userServices.HashPassword(user.Password);
             await _userRepository.CreateAsync(user);
         }
